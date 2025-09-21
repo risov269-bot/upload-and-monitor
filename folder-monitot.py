@@ -172,7 +172,7 @@ class FileChangeHandler(FileSystemEventHandler):
 def main():
     # Configuration - UPDATE THESE VALUES
     LOCAL_FOLDER = "C:/path/to/your/folder"  # Change this to your folder path
-    GITHUB_TOKEN = "your_github_token_here"   # Get from GitHub Settings → Developer settings → Personal access tokens
+    GITHUB_TOKEN = "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"   # Get from GitHub Settings → Developer settings → Personal access tokens
     REPO_NAME = "rdp269-bot/chat-server"         # Format: username/repo-name
     
     # Create monitor instance
